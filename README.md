@@ -2,7 +2,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a UC San Diego student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> studying Data Science.
+I am a UC San Diego :merman: student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> studying Data Science.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
