@@ -1,19 +1,26 @@
 ### Hi there 👋
 ---
+
+### :man_technologist: About Me :
+I am a UC San Diego student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> studying Data Science.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <p>
 
+[![Python][python]][python-url] \
+[![SQL][sql]][sql-url] \
 [![React][React.js]][React-url] \
 [![Node][Node.js]][Node-url] \
 [![Solidity][solidity]][solidity-url] \
 [![Vite][vite]][vite-url] \
 [![Tailwind][tailwind]][tailwind-url] \
-[![Hardhat][hardhat]][hardhat-url] \
 ![HTML][html] \
 ![CSS][css]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 
 ---
 
@@ -22,9 +29,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolftossH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/wolftossH/DSC--180AB-escrow.svg?style=for-the-badge
 [contributors-url]: https://github.com/wolftossH/DSC--180AB-escrow/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -75,6 +83,15 @@
 
 [hardhat]: https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg
 [hardhat-url]: https://hardhat.org/
+
+[python]:https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[python-url]: https://www.python.org/
+
+[sql]:https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[sql-url]: https://www.postgresql.org/
+
+
+
 <!--
 **wolftossH/wolftossH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
