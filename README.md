@@ -5,18 +5,37 @@
 I am a UC San Diego :merman: student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> studying Data Science.
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
+
+### 📚 Languages
 <p>
 
-[![Python][python]][python-url] \
-[![SQL][sql]][sql-url] \
-[![React][React.js]][React-url] \
-[![Node][Node.js]][Node-url] \
-[![Solidity][solidity]][solidity-url] \
-[![Vite][vite]][vite-url] \
-[![Tailwind][tailwind]][tailwind-url] \
-![HTML][html] \
-![CSS][css]
+[![Python][python]][python-url] [![SQL][sql]][sql-url] 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+[![Solidity][solidity]][solidity-url]
+
+### 💽Databases
+[![SQL][sql]][sql-url] 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
+ ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### 🎨Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![Tailwind][tailwind]][tailwind-url] 
+![HTML][html] 
+
+### 🖼️ Frameworks, Platforms, and Libraries
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+[![React][React.js]][React-url] [![Node][Node.js]][Node-url] 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![Vite][vite]][vite-url]
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
