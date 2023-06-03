@@ -3,6 +3,8 @@
 
 ### :man_technologist: About Me :
 I am a UC San Diego :merman: student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> studying Data Science.
+
+🌱I'm interested in data engineering and finance.
 ---
 
 ## :hammer_and_wrench: Languages and Tools :
