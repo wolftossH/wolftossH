@@ -23,7 +23,7 @@ export const experience = [
     company: "Workday",
     role: "Data Analytics Engineer",
     period: "September 2023 – Present",
-    logo: "/portfolio/logos/workday.jpeg",
+    logo: "/wolftossH/logos/workday.jpeg",
     bullets: [
       "Enhanced efficiency for 200+ salespeople with a RAG LLM sales chatbot using FastAPI, functional testing, Grafana-like monitor dashboards, and improved scalability by migrating chat storage from Databricks to MongoDB & DynamoDB",
       "Automated reporting over 200,000 data errors and missing data points by developing Snowpark Python scripts on Snowflake tasks (DAG) & dbt to prevent downstream reporting failures",
@@ -39,7 +39,7 @@ export const experience = [
     company: "Workday",
     role: "Data Analyst Intern",
     period: "July 2022 – September 2022",
-    logo: "/portfolio/logos/workday.jpeg",
+    logo: "/wolftossH/logos/workday.jpeg",
     bullets: [
       "Achieved 78% accuracy in predicting fields for internal incident ticketing by developing a multiclass classification model with ServiceNow Predictive Intelligence, outperforming the benchmark model",
       "Revamped field predictions display using JavaScript with Server-side Scripting GlideRecord API",
@@ -49,7 +49,7 @@ export const experience = [
     company: "Wells Fargo",
     role: "Data Analyst Intern",
     period: "June 2021 – August 2021",
-    logo: "/portfolio/logos/wellsfargo.png",
+    logo: "/wolftossH/logos/wellsfargo.png",
     bullets: [
       "Engineered Tableau dashboards for the service team's agile resource allocation, finding bottlenecks in time allocation",
       "Reduced customer behavior analysis query time by 25% by optimizing Teradata SQL queries and developed Tableau dashboards for anomaly detection in bank transaction events",
@@ -59,7 +59,7 @@ export const experience = [
     company: "UC San Diego",
     role: "Data Science Instructor Assistant",
     period: "January 2021 – December 2021",
-    logo: "/portfolio/logos/ucsd.jpeg",
+    logo: "/wolftossH/logos/ucsd.jpeg",
     bullets: [
       "Held weekly office hours, resulting in a 10% increase in grades for Python programming assignments compared to students who did not attend",
       "Evaluated coding assignments, set up lecture quizzes, organized midterm review sessions, proctored exams, and created exam rubrics for 160+ students",

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://wolftossH.github.io/portfolio",
+  "homepage": "https://wolftossH.github.io/wolftossH",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

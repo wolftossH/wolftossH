@@ -15,7 +15,7 @@ export default function Hero() {
           <a href="#contact" className="btn btn--outline">
             Get In Touch
           </a>
-          <a href="/portfolio/resume.pdf" target="_blank" rel="noreferrer" className="btn btn--outline">
+          <a href="/wolftossH/resume.pdf" target="_blank" rel="noreferrer" className="btn btn--outline">
             View Resume
           </a>
         </div>
@@ -39,7 +39,7 @@ export default function Hero() {
       </div>
       <div className="hero__visual">
         <div className="hero__avatar">
-          <img src="/portfolio/profile.jpeg" alt="Huy Trinh" className="hero__avatar-img" />
+          <img src="/wolftossH/profile.jpeg" alt="Huy Trinh" className="hero__avatar-img" />
         </div>
       </div>
     </section>

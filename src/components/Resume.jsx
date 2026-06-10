@@ -1,4 +1,4 @@
-const RESUME_URL = "/portfolio/resume.pdf";
+const RESUME_URL = "/wolftossH/resume.pdf";
 
 export default function Resume() {
   return (
